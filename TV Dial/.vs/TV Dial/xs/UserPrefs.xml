@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{37154C9E-80FB-05ED-7F12-4A1DC4FD17BB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TVManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DialScript.cs" Line="39" Column="31" />
+      <File FileName="Assets/Scripts/TVManager.cs" Line="21" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TV Dial" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TVManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ec22a987-0d6e-4906-99da-7e1274098c5c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
